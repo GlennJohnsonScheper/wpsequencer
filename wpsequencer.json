@@ -1,0 +1,7 @@
+{
+  "name": "com.changethistoyourname.wpsequencer",
+  "description": "helps me to query whitepages.com",
+  "path": "C:\\A\\EXE\\2021FirefoxAddons\\wpsequencer\\nativeapp\\wpsequencer\\bin\\Debug\\wpsequencer.exe",
+  "type": "stdio",
+  "allowed_extensions": [ "wpsequencer@changethistoyourname.com" ]
+}

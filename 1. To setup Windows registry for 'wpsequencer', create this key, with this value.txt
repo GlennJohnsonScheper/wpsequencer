@@ -1,0 +1,18 @@
+1. To setup Windows registry for 'wpsequencer', create this key, with this value.txt
+
+Key:
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Mozilla\NativeMessagingHosts\com.changethistoyourname.wpsequencer
+
+Value:
+(Default) -- REG_SZ -- C:\A\EXE\2021FirefoxAddons\wpsequencer\wpsequencer.json
+
+So, go into:
+HKEY_LOCAL_MACHINE\SOFTWARE\Mozilla\NativeMessagingHosts
+|
+Add New Key, named:
+com.changethistoyourname.wpsequencer
+|
+Change its default (reg_sz) value, its data, to:
+C:\A\EXE\2021FirefoxAddons\wpsequencer\wpsequencer.json
+|
+Done!

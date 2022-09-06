@@ -1,0 +1,7 @@
+How to install an unzipped addon.txt
+
+
+Open "about:debugging" in Firefox, 
+click "This Firefox" 
+click "Load Temporary Add-on" 
+and select any file in your extension's directory:
